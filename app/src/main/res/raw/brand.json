@@ -1,0 +1,74 @@
+{
+  "BeeBrands": [
+    {
+      "Brand": "Bee Harmony",
+      "Country": "USA",
+      "Description": "Bee Harmony is an American honey brand known for its pure, organic-certified honey. Their honey is sourced from different regions' flowers, including wildflowers, citrus flowers, and clover flowers, emphasizing sustainable beekeeping practices.",
+      "Price": "12.99",
+      "ImageURL": "https://www.ubuy.com.sg/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODE3NTVkNmppMEwuX1NMMTUwMF8uanBn.jpg"
+    },
+    {
+      "Brand": "Billy Bee",
+      "Country": "CA",
+      "Description": "Billy Bee is one of Canada's most popular honey brands, known for its high quality and diverse honey products. Their honey is suitable for everyday household use and is easily found in supermarkets.",
+      "Price": "9.49",
+      "ImageURL": "https://theclubhouseat7lakes.org/png/billy_bee_liquid_honey_375_g_bear_400x4000935.png"
+    },
+    {
+      "Brand": "Capilano",
+      "Country": "AU",
+      "Description": "Capilano is one of Australia's largest honey brands and has been a household favorite since 1953. The brand is known for its high-quality, 100% pure Australian honey, offering various honey types including creamed and raw honey.",
+      "Price": "11.25",
+      "ImageURL": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/457920_XL1.jpg"
+    },
+    {
+      "Brand": "Comvita",
+      "Country": "NZ",
+      "Description": "Comvita is a renowned New Zealand honey brand famous for its premium Manuka honey. Comvita's Manuka honey is highly regarded for its exceptional health benefits and is sold in many countries around the world.",
+      "Price": "45.00",
+      "ImageURL": "https://m.media-amazon.com/images/I/61u86iGQM9L.jpg"
+    },
+    {
+      "Brand": "Breitsamer",
+      "Country": "DE",
+      "Description": "Breitsamer is a historic German honey brand, founded in 1935, known for its traditional and high-quality honey. The brand offers a variety of honey types, including forest honey and blossom honey, catering to various tastes.",
+      "Price": "14.75",
+      "ImageURL": "https://www.breitsamer.de/wp-content/uploads/2020/03/Art900670-06_shop2.png"
+    },
+    {
+      "Brand": "Lune de Miel",
+      "Country": "FR",
+      "Description": "Lune de Miel is a well-known French honey brand, recognized for its high-quality, pure honey products. The brand is committed to offering the purest honey with eco-friendly packaging, and its products are sold globally.",
+      "Price": "10.50",
+      "ImageURL": "https://famillemichaud.com/wp-content/uploads/2020/11/LDM_images_ldm.png"
+    },
+    {
+      "Brand": "Rowse Honey",
+      "Country": "UK",
+      "Description": "Rowse Honey is the leading honey brand in the UK market, established in 1938. It offers a range of pure honey, including traditional, blossom, and organic honey, and is highly popular among consumers.",
+      "Price": "9.99",
+      "ImageURL": "https://cdn.sanity.io/images/yg2dvvx6/production/3fbad4ed38765fad123e24b448a270c1935e3107-1200x630.jpg"
+    },
+    {
+      "Brand": "Miel de la Granja San Francisco",
+      "Country": "ES",
+      "Description": "Miel de la Granja San Francisco is a famous Spanish honey brand, focused on providing high-quality, pure honey. The brand's products include honey from different flower sources like thyme and orange blossom, trusted by Spanish consumers.",
+      "Price": "11.00",
+      "ImageURL": "https://lulahop.com/wp/wp-content/uploads/gsf_01.jpg"
+    },
+    {
+      "Brand": "Balparmak",
+      "Country": "TR",
+      "Description": "Balparmak is a well-known Turkish honey brand, providing high-quality honey since 1980. Balparmak's products are famous for their purity and lack of additives, with pine honey and multi-floral honey being particularly popular.",
+      "Price": "13.50",
+      "ImageURL": "https://www.balparmak.com.tr/Data/EditorFiles/urunlerimizinhikayesi/%C3%96zelse%C3%A7imweb559x438(%C3%BCr%C3%BCnlerimizin_hikayesi).jpg"
+    },
+    {
+      "Brand": "Wang's Honey",
+      "Country": "CN",
+      "Description": "Wang's Honey is one of China's leading honey brands, established in 1985. The brand is known for its premium, pure honey products, including honey, royal jelly, and propolis, and has become a trusted brand among Chinese consumers.",
+      "Price": "10.00",
+      "ImageURL": "https://gw.alicdn.com/imgextra/O1CN01cGhPuo1VMFZixPuAQ_!!6000000002638-0-yinhe.jpg_320x320q90.jpg"
+    }
+  ]
+}
