@@ -35,7 +35,7 @@ The `RecyclerView` adapter that handles displaying each honey brand in the list.
 ![honey](doc/pic.png)
 
 ## Video Demonstration
-A video [honey](https://youtu.be/x85piokNt7k?si=WzmRmU9ZtEtPEfOo) is included that provides a visual overview of the application's functionality and user interface.
+A video [honey](https://youtu.be/aGwHr68j2js?si=uJvGXp9L6w7TcABe) is included that provides a visual overview of the application's functionality and user interface.
 
 ## How to Run
 
