@@ -16,6 +16,10 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
+/**
+ * @see: S1032118
+ * @author: YangZhengYou
+ */
 class HoneyActivity : Activity() {
 
     private lateinit var honeyAdapter: HoneyAdapter

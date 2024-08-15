@@ -6,7 +6,7 @@
     android:orientation="horizontal"
     android:padding="8dp"
     android:background="@drawable/default_background">
-
+    <!-- S1032118  YangZhengYou-->
     <TextView
         android:id="@+id/brand_name"
         android:layout_width="wrap_content"

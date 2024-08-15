@@ -5,7 +5,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-
+/**
+ * @see: S1032118
+ * @author: YangZhengYou
+ */
 class HoneyAdapter(
     private val brands: List<Brand>,
     val onItemClicked: (Brand) -> Unit

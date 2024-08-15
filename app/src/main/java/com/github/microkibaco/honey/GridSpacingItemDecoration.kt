@@ -3,7 +3,10 @@ package com.github.microkibaco.honey
 import android.graphics.Rect
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
-
+/**
+ * @see: S1032118
+ * @author: YangZhengYou
+ */
 class GridSpacingItemDecoration(private val spanCount: Int, private val spacing: Int, private val includeEdge: Boolean) :
     RecyclerView.ItemDecoration() {
 
