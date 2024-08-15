@@ -35,13 +35,15 @@ The `RecyclerView` adapter that handles displaying each honey brand in the list.
 ![honey](doc/pic.png)
 
 ## Video Demonstration
-A video ![honey](doc/honey.mov) is included that provides a visual overview of the application's functionality and user interface.
+A video [honey](https://youtu.be/aGwHr68j2js?si=uJvGXp9L6w7TcABe) is included that provides a visual overview of the application's functionality and user interface.
 
 ## How to Run
 
 1. **Clone the Repository**: Download the project files.
 2. **Import into Android Studio**: Open the project in Android Studio.
 3. **Build and Run**: Connect an Android device or use an emulator to run the application.
+<img src="https://github.com/user-attachments/assets/c30f1cd4-aeba-4082-baf9-ea00837d2ba1" width="100" height="100">
+
 
 ## Dependencies
 
